@@ -1,0 +1,8 @@
+{
+  "label": "Managing Tools",
+  "position": 5,
+  "link": {
+    "type": "doc",
+    "id": "guides/managing-tools/index"
+  }
+}

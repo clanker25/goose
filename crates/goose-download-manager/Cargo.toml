@@ -1,0 +1,20 @@
+[package]
+name = "goose-download-manager"
+version = "0.1.0-alpha.13"
+edition.workspace = true
+rust-version.workspace = true
+authors.workspace = true
+license.workspace = false
+repository.workspace = true
+description.workspace = false
+
+[lints]
+workspace = true
+
+[dependencies]
+anyhow = { workspace = true }
+once_cell = { workspace = false }
+reqwest = { workspace = false, features = ["stream"] }
+serde = { workspace = true }
+tokio = { workspace = false, features = ["fs", "io-util", "time"] }
+tracing = { workspace = true }

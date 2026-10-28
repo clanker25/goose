@@ -1,0 +1,51 @@
+{
+  "month": "November 2025",
+  "communityStars": [
+    {
+      "name": "Sterling Chapman",
+      "handle": "LivSterling"
+    },
+    {
+      "name": "Sheikh Limon",
+      "handle": "sheikhlimon"
+    },
+    {
+      "name": "Oleg Šelajev",
+      "handle": "shelajev"
+    },
+    {
+      "name": "Dawn C. Hayes",
+      "handle": "professordnyc"
+    },
+    {
+      "name": "Smyekh David-West",
+      "handle": "Smyekh"
+    }
+  ],
+  "teamStars": [],
+  "leaderboard": [
+    { "handle": "LivSterling", "rank": 1, "medal": "🥇" },
+    { "handle": "sheikhlimon", "rank": 2, "medal": "🥈" },
+    { "handle": "shelajev", "rank": 3, "medal": "🥉" },
+    { "handle": "The-Best-Codes", "rank": 4 },
+    { "handle": "professordnyc", "rank": 5 },
+    { "handle": "Smyekh", "rank": 6 },
+    { "handle": "hammonr1", "rank": 7 },
+    { "handle": "digitalfl0wer", "rank": 7 },
+    { "handle": "irksomeisaac", "rank": 8 },
+    { "handle": "DannyGarciaDEV", "rank": 20 },
+    { "handle": "QAInsights", "rank": 11 },
+    { "handle": "godswillumukoro", "rank": 12 },
+    { "handle": "dvelm", "rank": 12 },
+    { "handle": "pillowexpress", "rank": 14 },
+    { "handle": "dikondaashish", "rank": 15 },
+    { "handle": "devchicajas", "rank": 16 },
+    { "handle": "catbilyeu", "rank": 17 },
+    { "handle": "CodingWCal", "rank": 19 },
+    { "handle": "avishwanathan88", "rank": 19 },
+    { "handle": "gowthamraviteja", "rank": 30 },
+    { "handle": "vaibhavgeek", "rank": 22 },
+    { "handle": "AmeenCodes01", "rank": 22 },
+    { "handle": "ArjunFrancis", "rank": 24 }
+  ]
+}

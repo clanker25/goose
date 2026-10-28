@@ -1,0 +1,61 @@
+{
+  "month": "May 2025",
+  "communityStars": [
+    {
+      "name": "GitMurf",
+      "handle": "GitMurf"
+    },
+    {
+      "name": "Anil Muppalla",
+      "handle": "anilmuppalla"
+    },
+    {
+      "name": "Ben Walding",
+      "handle": "bwalding"
+    },
+    {
+      "name": "Gustavo Hoirisch",
+      "handle": "gugahoi"
+    },
+    {
+      "name": "Antonio Cheong",
+      "handle": "acheong08"
+    }
+  ],
+  "teamStars": [
+    {
+      "name": "Oliver",
+      "handle": "opdich"
+    },
+    {
+      "name": "Jack Amadeo",
+      "handle": "jamadeo"
+    },
+    {
+      "name": "Shea Craig",
+      "handle": "sheagcraig"
+    }
+  ],
+  "leaderboard": [
+    { "handle": "dbraduan", "rank": 1, "medal": "🥇" },
+    { "handle": "The-Best-Codes", "rank": 2, "medal": "🥈" },
+    { "handle": "opdich", "rank": 4, "medal": "🥉" },
+    { "handle": "patrickReiis", "rank": 5 },
+    { "handle": "sheagcraig", "rank": 5 },
+    { "handle": "bwalding", "rank": 5 },
+    { "handle": "jamadeo", "rank": 8 },
+    { "handle": "rockwotj", "rank": 8 },
+    { "handle": "danielzayas", "rank": 9 },
+    { "handle": "svenstaro", "rank": 10 },
+    { "handle": "adaug", "rank": 11 },
+    { "handle": "loganmoseley", "rank": 13 },
+    { "handle": "tiborvass", "rank": 13 },
+    { "handle": "xuv", "rank": 15 },
+    { "handle": "anilmuppalla", "rank": 15 },
+    { "handle": "spencrmartin", "rank": 32 },
+    { "handle": "gknoblauch", "rank": 16 },
+    { "handle": "acheong08", "rank": 18 },
+    { "handle": "faces-of-eth", "rank": 19 },
+    { "handle": "wesbillman", "rank": 20 }
+  ]
+}
